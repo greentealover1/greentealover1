@@ -13,9 +13,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
-
-
-
-<https://img.shields.io/github/last-commit/greentealover1/greentealover1?style=plastic />
-<https://img.shields.io/github/watchers/greentealover1/greentealover1?style=social />
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/greentealover1/greentealover1?style=social">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/greentealover1/greentealover1?style=social">
