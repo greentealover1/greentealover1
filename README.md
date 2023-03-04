@@ -17,5 +17,5 @@
 
 
 
-https://img.shields.io/github/last-commit/greentealover1/greentealover1?style=plastic
-https://img.shields.io/github/watchers/greentealover1/greentealover1?style=social
+<https://img.shields.io/github/last-commit/greentealover1/greentealover1?style=plastic />
+<https://img.shields.io/github/watchers/greentealover1/greentealover1?style=social />
